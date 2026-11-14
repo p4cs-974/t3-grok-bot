@@ -29,6 +29,7 @@ To undo, switch back to a built-in theme: `t3-chat`, `grove`, `ocean`, `ember` o
 - **Shapes:** pill buttons and inputs, 24px dialogs and cards, 20px message bubbles, 12px sidebar rows.
 - **Composer:** solid `#1F1F1F` with a 28px radius, so it's a pill when empty and a rounded card as it grows. No glass effect.
 - **Bot replies:** each one sits in its own bubble, sized to its text.
+- **Dropdowns:** outlined pill triggers and solid rounded popups with rounded highlighted rows.
 - **Switches and sliders:** blue `#326CCB` when on, a gray track and a white knob.
 - **Dictation:** borderless lighter pill, with a white finish button.
 - **Extras:** thinner icon strokes, slim scrollbars, a frosted chat header, soft popup shadows, dimmed tool rows and blue text selection.
