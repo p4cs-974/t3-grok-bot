@@ -1,4 +1,4 @@
-# Grok Bot Max for T3 Code
+# Grok Bot for T3 Code
 
 A theme for T3 Code modeled on the Grok Bot chat app: flat grays, no accent color, pill buttons, rounded message bubbles and a Grok-style composer. It ships light and dark palettes and follows your system appearance.
 
@@ -19,7 +19,7 @@ The agent follows [AGENTS.md](AGENTS.md).
 ### By hand
 
 1. Copy the contents of [`theme.json`](theme.json).
-2. In any T3 Code thread, ask the agent to publish it with `t3_theme_set`, using `themeId: "grok-bot-max"` and the JSON as `theme`.
+2. In any T3 Code thread, ask the agent to publish it with `t3_theme_set`, using `themeId: "grok-bot"` and the JSON as `theme`.
 
 To undo, switch back to a built-in theme: `t3-chat`, `grove`, `ocean`, `ember` or `iris`.
 

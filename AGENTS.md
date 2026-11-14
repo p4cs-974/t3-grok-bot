@@ -1,12 +1,12 @@
 # Installing this theme (instructions for agents)
 
-The user wants the Grok Bot Max theme applied to their T3 Code app.
+The user wants the Grok Bot theme applied to their T3 Code app.
 
 1. Read [`theme.json`](theme.json) from this repository. Raw URL:
    `https://raw.githubusercontent.com/p4cs-974/t3-grok-bot/main/theme.json`
 2. Call `t3_theme_read` once (T3 requires it before `t3_theme_set`).
 3. Call `t3_theme_set` with:
-   - `themeId`: `"grok-bot-max"`
+   - `themeId`: `"grok-bot"`
    - `theme`: the parsed contents of `theme.json`, unchanged
 4. Tell the user it's applied and that they can undo it by asking you to switch to a built-in theme (`t3-chat`, `grove`, `ocean`, `ember` or `iris`).
 
